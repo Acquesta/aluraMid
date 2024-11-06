@@ -1,32 +1,24 @@
-# App de utilidades
+# Mesa de som digital
 
-Este é um aplicativo desenvolvido para treinar lógica e contrução de front end.
-
+Este é um site criado em HTML, CSS e JAVASCRIPT que simula uma mesa com varios sons diferentes e botões para cada um.
 ## Objetivo do Projeto
 
-O objetivo deste projeto é desenvolver um aplicativos com varias funções usando rotas diferentes.
+O objetivo deste projeto é desenvolver conceitos de javascript como audios e informações na tela.
 
 ## Tecnologias Utilizadas
 
-- **Linguagens e Frameworks**: Usei Ionic para o aplicativo e TYPESCRIPT para a lógica.
-- **Ferramentas**: Para guardar as informações usei variaveis locais.
+- **Linguagens e Frameworks**: Usei HTML, CSS e JAVASCRIPT.
 
 ## Funcionalidades
 
-- **Lista de compras**: Cria uma lista de elementos com nome e quantidade.
-- **Edição dos itens**: Edita os itens ja criados anteriormente.
-- **Deletar itens**: Exclui os itens criados.
+- **Sons**: Simula varios tipos de sons.
 
 ## Como Usar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/acquesta/addProduto.git
-
-2. Instale as dependências:
-   ```bash
-   npm i
+   git clone https://github.com/acquesta/aluraMid.git
 
 3. Inicie o projeto:
    ```bash
-    npm start
+    rode o arquivo index.html
