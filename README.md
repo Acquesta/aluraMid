@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0cd452ad-f821-4c4b-b9dc-cce31d8f6ddc)
+
 # Mesa de som digital
 
 Este é um site criado em HTML, CSS e JAVASCRIPT que simula uma mesa com varios sons diferentes e botões para cada um.
